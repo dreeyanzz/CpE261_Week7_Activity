@@ -1,0 +1,14 @@
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\bin\Debug\net9.0\OOPWeek7Assignment.exe
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\bin\Debug\net9.0\OOPWeek7Assignment.deps.json
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\bin\Debug\net9.0\OOPWeek7Assignment.runtimeconfig.json
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\bin\Debug\net9.0\OOPWeek7Assignment.dll
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\bin\Debug\net9.0\OOPWeek7Assignment.pdb
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\obj\Debug\net9.0\OOPWeek7Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\obj\Debug\net9.0\OOPWeek7Assignment.AssemblyInfoInputs.cache
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\obj\Debug\net9.0\OOPWeek7Assignment.AssemblyInfo.cs
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\obj\Debug\net9.0\OOPWeek7Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\obj\Debug\net9.0\OOPWeek7Assignment.dll
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\obj\Debug\net9.0\refint\OOPWeek7Assignment.dll
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\obj\Debug\net9.0\OOPWeek7Assignment.pdb
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\obj\Debug\net9.0\OOPWeek7Assignment.genruntimeconfig.cache
+C:\Users\Adrian\Documents\Codesszzzzz\OOPWeek7Assignment\obj\Debug\net9.0\ref\OOPWeek7Assignment.dll
